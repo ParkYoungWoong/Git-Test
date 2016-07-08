@@ -1,0 +1,8 @@
+.color-change(@color) {
+  color: @color;
+  background: fadeOut(@color, 80%);
+}
+
+h1 {
+  .color-change(blue);
+}
