@@ -16,10 +16,10 @@
 ---
 
 ### 문단과 문단 나누기!
-동해물과 백두산이
+동해물과 __<span style="color:red;">백두산</span>__이
 마르고 닳도록
 
-하느님이 보우하사
+_하느님_이 보우하사
 우리나라 만세
 
 ### 목록
@@ -81,8 +81,6 @@ function herop() {
   console.log("herop");
 }
 ```
-
-<div style="color:red;">디자인나스</div>
 
 
 
