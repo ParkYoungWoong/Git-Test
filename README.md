@@ -49,8 +49,8 @@
 >> 자바스크립트는 재미있다!
 
 ### 서식 설정
-[링크](http://www.naver.com)
-  [링크](http://www.naver.com)
+[링크](http://www.naver.com)  
+   [링크](http://www.naver.com)
   
 ![](http:www.designnas.com/img/img2.png)
 ![](http:www.designnas.com/img/img2.png)
