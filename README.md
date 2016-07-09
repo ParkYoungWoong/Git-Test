@@ -48,12 +48,30 @@
 > 웹퍼블리싱은 쉽다!
 >> 자바스크립트는 재미있다!
 
-### 서식 설정
-  
-![](http://www.designnas.com/img/img2.png)
+### 스페이스x2 줄바꿈
 ![](http://www.designnas.com/img/img2.png)
 ![](http://www.designnas.com/img/img2.png)  
 ![](http://www.designnas.com/img/img2.png)
+
+UL 태그는 '<ul></ul>' 처럼 작성한다!
+```
+<div class="box"></div>
+```
+```html
+<div class="box"></div>
+```
+```css
+.box {
+  background: red;
+  height: 20px;
+}
+```
+```js
+function herop() {
+  console.log("herop");
+}
+```
+<div style="text-align:center;">디자인나스</div>
 
 
 
