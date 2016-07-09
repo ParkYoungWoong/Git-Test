@@ -53,25 +53,36 @@
 ![](http://www.designnas.com/img/img2.png)  
 ![](http://www.designnas.com/img/img2.png)
 
-UL 태그는 '<ul></ul>' 처럼 작성한다!
+### 코드
+UL 태그는 `<ul></ul>` 처럼 작성한다!
+
+### 코드 블럭
+- 일반코드
 ```
 <div class="box"></div>
 ```
+
+- HTML 문법강조
 ```html
 <div class="box"></div>
 ```
+
+- CSS 문법강조
 ```css
 .box {
   background: red;
   height: 20px;
 }
 ```
+
+- JavaScript 문법강조
 ```js
 function herop() {
   console.log("herop");
 }
 ```
-<div style="text-align:center;">디자인나스</div>
+
+<div style="text-align:right;">디자인나스</div>
 
 
 
