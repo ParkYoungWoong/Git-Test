@@ -82,7 +82,7 @@ function herop() {
 }
 ```
 
-<div style="text-align:right;">디자인나스</div>
+<div style="color:red;">디자인나스</div>
 
 
 
