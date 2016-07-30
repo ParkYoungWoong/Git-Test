@@ -81,3 +81,6 @@ function herop() {
   console.log("herop");
 }
 ```
+
+단수 || 복수 ||
+주격 | 소유격 | 주격 | 소유격
