@@ -82,7 +82,7 @@ function herop() {
 }
 ```
 
-### 테이
+### TABLE
 | Tag | Description |
 |---|---|
 | `<a>` | Defines a hyperlink. |
