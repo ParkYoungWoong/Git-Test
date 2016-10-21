@@ -84,5 +84,5 @@ function herop() {
 
 | Tag | Description |
 |---|---|
-| `<a>` | 하이퍼링크를 정의합니다. |
-| `<div>` | 문서의 영역을 정의합니다. |
+| `<a>` | Defines a hyperlink. |
+| `<div>` | Defines a section in a document. |
